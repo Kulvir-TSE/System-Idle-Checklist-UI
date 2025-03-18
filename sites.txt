@@ -1,0 +1,27 @@
+https://www.google.com|H&M CANADA|https://logo.clearbit.com/www2.hm.com
+https://www.google.com|DHL FIGS|https://logo.clearbit.com/www.wearfigs.com
+https://www.google.com|APOTEK|https://logo.clearbit.com/www.apotekhjartat.se
+https://www.google.com|COUPANG INC14|https://logo.clearbit.com/www.coupang.com
+https://www.google.com|COUPANG INC4|https://logo.clearbit.com/www.coupang.com
+https://www.google.com|DHL NL|https://logo.clearbit.com/www.dhl.com
+https://www.google.com|DILLARD|https://logo.clearbit.com/www.dillards.com
+https://www.google.com|EVERGREEN|https://logo.clearbit.com/www.myevergreenonline.com
+https://www.google.com|ROBINSON|https://logo.clearbit.com/www.robinsonmfg.com
+https://www.google.com|YKK|https://logo.clearbit.com/www.ykkap.com
+https://www.google.com|FHR|https://logo.clearbit.com/www.essilorluxottica.com
+https://www.google.com|GXO EDDIE BAUER|https://logo.clearbit.com/www.eddiebauer.ca
+https://www.google.com|SAMS SHUTTLE|https://logo.clearbit.com/www.samsclub.com
+https://www.google.com|Cardinal Heath Columbus|https://logo.clearbit.com/www.cardinalhealth.com
+https://www.google.com|Farmacia Tei|https://logo.clearbit.com/comenzi.farmaciatei.ro
+https://www.google.com|PROJECT 1|https://logo.clearbit.com/www2.hm.com
+https://www.google.com|SAMS ATL|https://logo.clearbit.com/www.samsclub.com
+https://www.google.com|RYDER|https://logo.clearbit.com/www.ryder.com
+https://www.google.com|IKEA|https://logo.clearbit.com/www.ikea.com
+http://30.224.46.16:8081/cgi-bin/check.sh|SAMS CLUB|https://logo.clearbit.com/www.samsclub.com
+https://www.google.com|WALMART BNA|https://logo.clearbit.com/www.walmart.com
+https://www.google.com|WALMART MEXICO|https://logo.clearbit.com/www.walmart.com
+https://www.google.com|WALMART CALGARY|https://logo.clearbit.com/www.walmart.com
+https://www.google.com|GXO VERIZON|https://logo.clearbit.com/www.verizon.com
+http://172.19.40.54:8081/cgi-bin/check.sh|GXO H&M|https://logo.clearbit.com/www2.hm.com
+https://www.google.com|GXO A&F|https://logo.clearbit.com/www.abercrombie.com
+https://www.google.com|STRYKER|https://logo.clearbit.com/www.stryker.com
